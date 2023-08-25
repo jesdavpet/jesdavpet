@@ -1,4 +1,9 @@
-### Hi there 👋
+🛠️ I build the [HashiCorp Cloud Platform](https://www.hashicorp.com/cloud) at work
+
+🦀 I recently started learning the Rust programming language on the side
+
+💬 Je parle assez bien 🇫🇷, 少し 🇯🇵語 を 話すの, y estoy estudiando 🇪🇸/🇲🇽 un poco
+
 
 <!--
 **jesdavpet/jesdavpet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
