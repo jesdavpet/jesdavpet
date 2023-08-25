@@ -1,6 +1,6 @@
 🛠️ I build the [HashiCorp Cloud Platform](https://www.hashicorp.com/cloud) at work
 
-🦀 I recently started learning the Rust programming language on the side
+🦀 I recently started learning the Rust programming language
 
 💬 Je parle assez bien 🇫🇷, 少し 🇯🇵語 を 話すの, y estoy estudiando 🇪🇸/🇲🇽 un poco
 
