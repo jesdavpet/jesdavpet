@@ -6,7 +6,7 @@
 
 🎹 Recently I've been enjoying [Music for Programming](https://musicforprogramming.net) when I'm in focus mode
 
-📖 Right now I'm reading ["The Staff Engineer's Path"](https://www.oreilly.com/library/view/the-staff-engineers/9781098118723/) _by Tayna Reilly_
+📖 Reading ["The Staff Engineer's Path"](https://www.oreilly.com/library/view/the-staff-engineers/9781098118723/) _by Tayna Reilly_ at the moment
 
 <!--
 **jesdavpet/jesdavpet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
