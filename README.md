@@ -1,10 +1,13 @@
 🛠️ I build the [HashiCorp Cloud Platform](https://www.hashicorp.com/cloud) at work
 
-🦀 Currently learning Rust
+🦀 Currently learning about Rust + WASM
 
 💬 Je parle assez bien 🇫🇷, 少し 🇯🇵語 を 話すの, y habla un poco 🇪🇸/🇲🇽
 
-🎹 I listen to this for focus when I'm coding [](https://musicforprogramming.net)
+🎹 I enjoy listening to [Music for Programming](https://musicforprogramming.net) when I'm in focus mode
+
+📖 Right now I'm reading ["The Staff Engineer's Path"](https://www.oreilly.com/library/view/the-staff-engineers/9781098118723/) _by Tayna Reilly_
+
 <!--
 **jesdavpet/jesdavpet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
