@@ -4,7 +4,7 @@
 
 💬 Je parle assez bien 🇫🇷, 少し 🇯🇵語 を 話すの, y habla un poco 🇪🇸/🇲🇽
 
-
+🎹 I listen to this for focus when I'm coding [](https://musicforprogramming.net)
 <!--
 **jesdavpet/jesdavpet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
