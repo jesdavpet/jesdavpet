@@ -4,7 +4,7 @@
 
 💬 Je parle assez bien 🇫🇷, 少し 🇯🇵語 を 話すの, y habla un poco 🇪🇸/🇲🇽
 
-🎹 I enjoy listening to [Music for Programming](https://musicforprogramming.net) when I'm in focus mode
+🎹 Recently I've been enjoying [Music for Programming](https://musicforprogramming.net) when I'm in focus mode
 
 📖 Right now I'm reading ["The Staff Engineer's Path"](https://www.oreilly.com/library/view/the-staff-engineers/9781098118723/) _by Tayna Reilly_
 
