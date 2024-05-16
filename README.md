@@ -1,4 +1,4 @@
-🛠️ I build [#Paid](https://hashtagpaid.com/) at work now; I used to build the [HashiCorp Cloud Platform](https://www.hashicorp.com/cloud), and [My TELUS](https://telus.com/my-telus)
+🛠️ I build [#Paid](https://hashtagpaid.com/) at work; I used to build the [HashiCorp Cloud Platform](https://www.hashicorp.com/cloud), and [My TELUS](https://telus.com/my-telus)
 
 🦀 Currently learning about Rust + WASM
 
