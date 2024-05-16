@@ -1,4 +1,4 @@
-🛠️ I build the [HashiCorp Cloud Platform](https://www.hashicorp.com/cloud) at work
+🛠️ I build [#Paid](https://hashtagpaid.com/) at work now; I used to build the [HashiCorp Cloud Platform](https://www.hashicorp.com/cloud), and [My TELUS](https://telus.com/my-telus)
 
 🦀 Currently learning about Rust + WASM
 
@@ -6,7 +6,7 @@
 
 🎹 Recently I've been enjoying [Music for Programming](https://musicforprogramming.net) when I'm in focus mode
 
-📖 Reading ["The Staff Engineer's Path"](https://www.oreilly.com/library/view/the-staff-engineers/9781098118723/) _by Tayna Reilly_ at the moment
+🔖 Reading ["The Staff Engineer's Path"](https://www.oreilly.com/library/view/the-staff-engineers/9781098118723/) _by Tayna Reilly_ at the moment
 
 <!--
 **jesdavpet/jesdavpet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
