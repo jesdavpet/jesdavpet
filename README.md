@@ -1,24 +1,9 @@
-🛠️ I build [#paid](https://hashtagpaid.com/) at work; before that I built the [HashiCorp Cloud Platform](https://www.hashicorp.com/cloud), and [My TELUS](https://telus.com/my-telus)
+🛠️ I previously helped to build the [HashiCorp Cloud Platform](https://portal.cloud.hashicorp.com/), [My TELUS](https://telus.com), and [#paid](https://hashtagpaid.com/)
 
-🦀 Currently learning about Rust + WASM
+🦀 Early days of learning about Rust + WASM
 
 💬 Je parle assez bien 🇫🇷, 少し 🇯🇵語 を 話すの, y habla un poco 🇪🇸/🇲🇽
 
 🎹 Recently I've been enjoying [Music for Programming](https://musicforprogramming.net) when I'm in focus mode
 
-🔖 Reading ["The Staff Engineer's Path"](https://www.oreilly.com/library/view/the-staff-engineers/9781098118723/) _by Tayna Reilly_ at the moment
-
-<!--
-**jesdavpet/jesdavpet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📚 Reading ["The Staff Engineer's Path"](https://www.oreilly.com/library/view/the-staff-engineers/9781098118723/) _by Tayna Reilly_ at the moment
