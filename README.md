@@ -2,7 +2,7 @@
 
 🦀 Early days of learning about Rust + WASM
 
-💬 Je parle assez bien 🇫🇷, 少し 🇯🇵語 を 話すの, y habla un poco 🇪🇸/🇲🇽
+💬 Je parle un peu 🇫🇷, 少し 🇯🇵語 を 話すの, y habla un poco 🇪🇸/🇲🇽
 
 🎹 Recently I've been enjoying [Music for Programming](https://musicforprogramming.net) when I'm in focus mode
 
