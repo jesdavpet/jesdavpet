@@ -1,8 +1,8 @@
-🛠️ I previously helped to build the [HashiCorp Cloud Platform](https://portal.cloud.hashicorp.com/), [My TELUS](https://telus.com), and [#paid](https://hashtagpaid.com/)
+🛠️ I'm currently working on [Grafana](https://grafana.com/grafana), I previously worked to build the [HashiCorp Cloud Platform](https://portal.cloud.hashicorp.com/), [My TELUS](https://telus.com), and [#paid](https://hashtagpaid.com/)
 
-🦀 Early days of learning about Rust + WASM
+🦀 I'm in early days of learning about Rust + WASM
 
-💬 Je parle un peu 🇫🇷, 少し 🇯🇵語 を 話すの, y habla un poco 🇪🇸/🇲🇽
+💬 Je parle un peu 🇫🇷, 少し 🇯🇵語 を 話すの, y habla un poquito 🇪🇸/🇲🇽
 
 🎹 Recently I've been enjoying [Music for Programming](https://musicforprogramming.net) when I'm in focus mode
 
