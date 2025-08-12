@@ -1,4 +1,4 @@
-🛠️ I'm currently working on [Grafana](https://grafana.com/grafana). I used to work on building the [HashiCorp Cloud Platform](https://portal.cloud.hashicorp.com/), [My TELUS](https://telus.com), and [#paid](https://hashtagpaid.com/)
+🛠️ I'm currently working on [Grafana](https://grafana.com/grafana). I used to work on the [HashiCorp Cloud Platform](https://portal.cloud.hashicorp.com/), [My TELUS](https://telus.com), and [#paid](https://hashtagpaid.com/)
 
 🦀 I'm in the early days of learning about Rust + WASM
 
